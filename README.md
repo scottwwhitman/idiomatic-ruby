@@ -18,16 +18,16 @@ Location: SF
 <!-- specific/measurable goal for students to achieve -->
 *After this workshop, developers will be able to:*
 
-- Discuss the proper usage of Ruby methods and syntax
-- Compare and contrast the difference between a `Javascript` way and `Ruby` way of approaching a problem
-- Create methods that demonstrate best practices and efficient code.
+- Discuss the proper usage of Ruby methods and syntax.
+- Compare and contrast the difference between a `Javascript` way and `Ruby` way of approaching a problem.
+- Create methods that demonstrate best practices in Ruby and efficient code.
 
 ### Where should we be now?
 <!-- call out the skills that are prerequisites -->
 *Before this workshop, developers should already be able to:*
 
-- Synthesize basic `Ruby` statements 
-- Understand the various data types in `Ruby`
+- Read and write basic `Ruby` statements including methods, conditionals, and loops
+- Recognize the various data types in `Ruby`
 - Navigate and execute live code in `irb`, `pry`, or a `.rb` file.
 
 
@@ -38,7 +38,7 @@ Ruby takes advantage of having language-specific expressions and methods. The mo
 
 ![Don't talk so much!](http://i.giphy.com/iW8tsoJWcfPc4.gif)
 
-###TODO:
+### TODO:
 Navigate to this [Google Document](https://goo.gl/SHzrGD) and create Ruby methods for each problem.  You will be coding as a table group.  Once your method achieves the provided input/output goals, submit your group's code in the appropriate space.  Try to keep it short and sweet!
 
 
@@ -46,10 +46,9 @@ Navigate to this [Google Document](https://goo.gl/SHzrGD) and create Ruby method
 
 ### What did we cover?
 <!-- call  out the skills that we have learned -->
-- Returning implicitly is now a thing
-- Return early and return often
-- Check if a helper method exists before creating one
-- Ruby has **many** built-in methods available to us.  
+- Returning implicitly is now a thing.
+- Ruby has **many** built-in methods available to us.  Check if a helper method exists before creating one.
+- Prefer code that reads like English!
 
  
 ### Recommended Resource
