@@ -31,7 +31,7 @@ Location: SF
 - Navigate and execute live code in `irb`, `pry`, or a `.rb` file.
 
 
-###Overview
+### Overview
 Using any language in an idomatic way means using expressions that are natural to a native speaker. Idiomatic programming means that your program contains statements that are unique to the language; i.e., you actually use the expressive power (or lack thereof – PHP) of the language in your programs.
 
 Ruby takes advantage of having language-specific expressions and methods. The more comfortable you are with built-in features, the more succinct and self-documenting your codebase will become.
@@ -39,14 +39,17 @@ Ruby takes advantage of having language-specific expressions and methods. The mo
 ![Don't talk so much!](http://i.giphy.com/iW8tsoJWcfPc4.gif)
 
 ### TODO:
-Navigate to this [Google Document](https://goo.gl/SHzrGD) and create Ruby methods for each problem.  You will be coding as a table group.  Once your method achieves the provided input/output goals, submit your group's code in the appropriate space.  Try to keep it short and sweet!
 
+1. Divide into groups of 2-3.  You are all responsible for working on the problems we're about to do!  Decide who will be the "scribe" for your group.  
 
+1. Navigate to this [Google Document](https://docs.google.com/document/d/1NJnr_EUT3aGebFtjo63zmzigZUuTSQt1dIAVRt-0T14/edit?usp=sharing) and create Ruby methods for each problem.  You will be coding as a group.  
+
+1. Once your method achieves the provided input/output goals, the scribe should type your group's code in the appropriate space.  Try to keep it short, readable, and sweet!
 
 
 ### What did we cover?
 <!-- call  out the skills that we have learned -->
-- Returning implicitly is now a thing.
+- Return implicitly when possible.
 - Ruby has **many** built-in methods available to us.  Check if a helper method exists before creating one.
 - Prefer code that reads like English!
 
